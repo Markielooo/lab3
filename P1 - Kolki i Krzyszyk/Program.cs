@@ -32,7 +32,7 @@ namespace P1
                 RysujPlansze(plansza);
 
                 Console.ReadKey();
-                //..
+                //.
             }
 
         }
